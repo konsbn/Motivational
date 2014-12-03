@@ -1,5 +1,5 @@
 Motivational Sayings Generator
-
+===============================
 The idea for this script is to generate motivational sayings.
 To do this I attempt to collect data from Reddit's 'Get
 Motivated' subreddit, store it in a database, and parse back the
