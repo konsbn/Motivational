@@ -7,6 +7,8 @@ results. Another future edit will be to use motivational and
 inspiring works found on Project Gutenberg, and other sites, to
 generate sayings. 
 
+TESTING
+
 Please let me know your thoughts and if you have some other ideas for
 how to do this...most helpful are thoughts around using Python's
 NLTK capabilities. 
